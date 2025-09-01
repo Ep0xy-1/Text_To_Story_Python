@@ -9,7 +9,7 @@ A Retro 1980’s Style Love & Escape Adventure — in Python with Tkinter
 Even if the Stars Fall is a choice-based adventure game designed to look and feel like a 1980’s retro computer text-adventure, complete with:
 
 Green/black CRT-style visuals
-
+ 
 Typewriter-style text reveal
 
 Glitchy background & flickering cursor
