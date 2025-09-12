@@ -13,7 +13,7 @@ Green/black CRT-style visuals
 Typewriter-style text reveal
 
 Glitchy background & flickering cursor
-
+ 
 Branching storylines: sneak past your parents, reach the cliffs, and confess your feelings — or fail trying
 
 This is more than a demo — it’s a full framework for building retro-style Tkinter games.
