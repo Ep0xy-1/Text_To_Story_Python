@@ -12,7 +12,7 @@ MUSIC_ENABLED = True
 MUSIC_VOLUME = 0.35
 ASSET_PATH = "assets"
 MUSIC_FILE = os.path.join(ASSET_PATH, "background.mp3")
-
+ 
 # Try to init pygame (non-fatal if missing)
 try:
     import pygame
