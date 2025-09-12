@@ -72,7 +72,7 @@ Confess your feelings before time runs out
 Explore different endings — not all are happy ones…
 
 # 📝 Story Themes
-
+ 
 The game revolves around:
 
 Forbidden Love — sneaking out to meet Leah despite strict parents
