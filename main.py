@@ -6,7 +6,7 @@ from itertools import cycle
 import threading
 import random
 import time
-
+ 
 # Optional music
 MUSIC_ENABLED = True
 MUSIC_VOLUME = 0.35
